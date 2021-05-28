@@ -1,5 +1,5 @@
 {
-  "name": "marketplace/flarum-l10n-ext-russian",
+  "name": "reazzon/flarum-l10n-ext-russian",
   "description": "Flarum Extensions Russian language pack.",
   "type": "flarum-extension",
   "license": "MIT",
@@ -44,7 +44,7 @@
     }
   ],
   "require": {
-    "flarum/core": "^0.1.0-beta.15"
+    "flarum/core": "^1.0.0"
   },
   "suggest": {
     "flarum/flarum": "Flarum",
